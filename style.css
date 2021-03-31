@@ -32,3 +32,9 @@ h3 {
 .paint h2 {
   background-color: skyblue;
 }
+
+.price {
+  font-family: Helvetica;
+  font-weight: bold;
+  color: blue;
+}
