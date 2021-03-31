@@ -9,10 +9,21 @@
   color: khaki;
 }
 
-.brushes {
+h2 {
   font-family: Helvetica;
   font-size: 32px;
   font-weight: bold;
-  color: white;
+  color: white;  
+}
+
+.brushes h2 {
   background-color: mediumspringgreen;
+}
+
+.frames h2 {
+  background-color: lightcoral;
+}
+
+.paint h2 {
+  background-color: skyblue;
 }
